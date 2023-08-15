@@ -1,3 +1,5 @@
-# dominative-solid-template
+nativescript + requestAnimationFrame 🐛 with dominative and solid-js
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nativescript-dominative-solid)
+steps:
+- yarn install
+- yarn run android
