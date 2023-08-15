@@ -1,15 +1,11 @@
 {
   "name": "nativescript-solidjs-example",
-  "main": "app/index.js",
+  "main": "app/index.ts",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@nativescript-community/solid-js": "^0.0.4-alpha.4",
     "@nativescript-community/ui-collectionview": "^5.1.8",
-    "@nativescript/canvas": "1.1.0-alpha.12",
-    "@nativescript/canvas-media": "1.1.0-alpha.12",
-    "@nativescript/canvas-polyfill": "^1.1.0-alpha.12",
-    "@nativescript/canvas-three": "1.1.0-alpha.12",
     "@nativescript/core": "~8.5.9",
     "dominative": "^0.0.9-alpha.2",
     "prettier": "^3.0.1",

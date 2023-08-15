@@ -29,5 +29,6 @@
     "outDir": "dist"
   },
   "include": ["app"],
-  "exclude": ["node_modules", "platforms"]
+  "exclude": ["node_modules", "platforms"],
+  "files": ["./app/index.ts", "./app/polyfills.ts"]
 }
